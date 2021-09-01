@@ -1,0 +1,2 @@
+FROM scratch
+ADD --chown=107:107 https://cloud-images.ubuntu.com/focal/20210831/focal-server-cloudimg-amd64-disk-kvm.img /disk/
